@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Hell;
+    src: url(./fonts/Helvetica-Bold.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Hell;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
